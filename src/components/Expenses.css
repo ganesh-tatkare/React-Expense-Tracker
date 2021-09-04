@@ -1,0 +1,8 @@
+.whole-container{
+    max-width: 1080px;
+    margin: auto;
+    background: #232323;
+    padding: 2rem;
+    width: 90%;
+    border-radius: 13px;
+}
